@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulario</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Vocabulario</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="gramatica.html">Gramática</a></li>
+                <li><a href="listening.html">Listening</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Lista de vocabulario</h2>
+        <ul>
+            <li><strong>Dog</strong> – Perro</li>
+            <li><strong>Cat</strong> – Gato</li>
+            <li><strong>House</strong> – Casa</li>
+            <li><strong>Apple</strong> – Manzana</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>Creado para practicar inglés</p>
+    </footer>
+</body>
+</html>
