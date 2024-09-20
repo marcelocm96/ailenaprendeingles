@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gramática</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Gramática</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="vocabulario.html">Vocabulario</a></li>
+                <li><a href="listening.html">Listening</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Ejercicios de gramática</h2>
+        <p>Completa la oración:</p>
+        <p>She ____ (be) very nice.</p>
+    </main>
+
+    <footer>
+        <p>Creado para practicar inglés</p>
+    </footer>
+</body>
+</html>
