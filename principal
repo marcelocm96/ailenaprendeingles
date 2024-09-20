@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica de Inglés</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenida a la página de práctica de inglés</h1>
+        <nav>
+            <ul>
+                <li><a href="vocabulario.html">Vocabulario</a></li>
+                <li><a href="gramatica.html">Gramática</a></li>
+                <li><a href="listening.html">Listening</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Prueba tu inglés con estas secciones</h2>
+        <p>Selecciona una de las secciones del menú para empezar.</p>
+    </main>
+
+    <footer>
+        <p>Creado para practicar inglés</p>
+    </footer>
+</body>
+</html>
